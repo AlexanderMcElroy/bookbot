@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first project!
+bookbot is my first project!
